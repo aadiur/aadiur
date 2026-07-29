@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/30508650/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/30508808/README.3.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Aadi%20UR&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
@@ -32,12 +32,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-`![](https://img.shields.io/badge/-‎-000000?style=flat-square)`
-
-</div>
 
 ## 🪞 About Me
 
