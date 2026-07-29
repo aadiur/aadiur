@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/30508808/README.3.md)
+[README (5).md](https://github.com/user-attachments/files/30508895/README.5.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Aadi%20UR&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
@@ -274,12 +274,12 @@ Building a strong foundation in software engineering through coursework, self-di
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadiur&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=e9d5ff" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aadiur&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=e9d5ff" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadiur&theme=radical&hide_border=true&background=0d0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=e9d5ff" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiur&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=e9d5ff" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aadiur&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=e9d5ff" width="48%"/>
 
 </div>
 
@@ -289,7 +289,7 @@ Building a strong foundation in software engineering through coursework, self-di
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadiur&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aadiur&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
