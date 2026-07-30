@@ -1,0 +1,52 @@
+name: Generate Profile Widgets
+ 
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: aadiur
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Commit trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          git diff --cached --quiet || git commit -m "chore: update trophy svg"
+          git push
+ 
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: aadiur
+          outputs: |
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Push generated snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
