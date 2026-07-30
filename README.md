@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/30509331/README.6.md)
+[README (9).md](https://github.com/user-attachments/files/30557544/README.9.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Aadi%20UR&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
@@ -289,7 +289,7 @@ Building a strong foundation in software engineering through coursework, self-di
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aadiur&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://raw.githubusercontent.com/aadiur/aadiur/main/assets/trophy.svg" width="100%"/>
 
 </div>
 
