@@ -18,8 +18,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: aadiur
-          output_path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: assets/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
  
       - name: Commit trophy SVG
         run: |
