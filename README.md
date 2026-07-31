@@ -1,5 +1,4 @@
-[README (11).md](https://github.com/user-attachments/files/30575393/README.11.md)
-<div align="center">
+[README (12).md](https://github.com/user-attachments/files/30575448/README.12.md)<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=200&section=header&text=Aadi%20UR&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=16" width="100%"/>
 
@@ -55,27 +54,13 @@ I'm **Aadi UR**, a B.Tech Computer Science student at **Amrita School of Computi
 
 <div align="center">
 
-**Languages** *(priority order)*
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,c" />
+| **Languages** *(priority order)* | **Frameworks** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c" width="180"/> | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" width="150"/> |
 
-<br/><br/>
-
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<br/><br/>
-
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+| **Databases** | **Tools & Workflow** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql,postgres" width="80"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode" width="120"/> |
 
 </div>
 
