@@ -1,10 +1,10 @@
-[Uploading README (13).md…]()
+[README (14).md](https://github.com/user-attachments/files/30575644/README.14.md)
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=180&section=header&text=Aadi%20UR&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer;DSA+Enthusiast;AI%2FML+Explorer;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;DSA+%26+Problem+Solving;Exploring+AI%2FML" />
 
 <br/>
 
