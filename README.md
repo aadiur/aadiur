@@ -1,11 +1,10 @@
-[README (12).md](https://github.com/user-attachments/files/30575448/README.12.md)<div align="center">
+[Uploading README (13).md…]()
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=200&section=header&text=Aadi%20UR&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=16" width="100%"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/College-Amrita%20School%20of%20Computing-6d28d9?style=for-the-badge&labelColor=1f2937" />
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-6d28d9?style=for-the-badge&labelColor=1f2937" />
-<img src="https://img.shields.io/badge/Graduating-2029-6d28d9?style=for-the-badge&labelColor=1f2937" />
-<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-6d28d9?style=for-the-badge&labelColor=1f2937" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=180&section=header&text=Aadi%20UR&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer;DSA+Enthusiast;AI%2FML+Explorer;Full+Stack+Developer" />
 
 <br/>
 
@@ -34,7 +33,7 @@
 
 ## 🪞 About Me
 
-I'm **Aadi UR**, a B.Tech Computer Science student at **Amrita School of Computing, Coimbatore** (Class of 2029), building depth in **Data Structures & Algorithms**, **backend engineering**, and **AI/ML** — fundamentals first, frameworks second.
+I'm **Aadi UR**, a B.Tech Computer Science student at **Amrita School of Computing, Coimbatore** (Class of 2029), based in **Coimbatore, India**, building depth in **Data Structures & Algorithms**, **backend engineering**, and **AI/ML** — fundamentals first, frameworks second.
 
 **Currently:** strengthening DSA, learning system design, exploring applied AI/ML, and building backend + SQL skills.
 
@@ -167,4 +166,3 @@ Building core CS fundamentals through coursework and self-directed practice, wit
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d1b69,100:0f0524&height=120&section=footer" width="100%"/>
 
 </div>
-
